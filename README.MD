@@ -16,7 +16,7 @@ Este proyecto es una aplicación Android desarrollada en Java para el módulo de
 - **Componentes UI:** Se han añadido y vinculado `TextViews` y un `ImageView` en el layout `activity_main.xml` para mostrar toda la información recibida.
 - **Carga de Imagen:** Implementación de descarga de imagen para una experiencia de usuario completa.
 
-## 🛠Tecnologías utilizadas
+## Tecnologías utilizadas
 - **Lenguaje:** Java.
 - **Entorno:** Android Studio (API 24+).
 - **Networking:** `HttpURLConnection` para peticiones GET.
