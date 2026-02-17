@@ -1,4 +1,4 @@
-# Consumo de la API de la NASA - Práctica PMD (RA1)
+# Consumo de la API de la NASA - Práctica PMD
 
 Este proyecto es una aplicación Android desarrollada en Java para el módulo de Programación de Multimedia y Dispositivos Móviles. El objetivo principal es el consumo de servicios REST externos y la manipulación de datos JSON.
 
